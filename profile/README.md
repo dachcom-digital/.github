@@ -3,4 +3,4 @@
 
 ***
 
-- 🟢 [We're hiring!](https://www.dachcom.com/de-ch/agentur/karriere/offene-stellen/web-software-developer-m-w-d) - join the open source team at DACHCOM.DIGITAL!
+🟢 [We're hiring!](https://www.dachcom.com/de-ch/agentur/karriere/offene-stellen/web-software-developer-m-w-d) - join the open source team at DACHCOM.DIGITAL!
